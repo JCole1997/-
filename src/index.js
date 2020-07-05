@@ -1,17 +1,14 @@
-import React from 'react';
+import React, { Fragment } from "react";
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
-import * as serviceWorker from './serviceWorker';
+import { GlobalStyle1 } from "./style.js";
+import { GlobalStyle2 } from "./statics/iconfont/iconfont"
 
 ReactDOM.render(
-  <React.StrictMode>
+  <Fragment>
+    <GlobalStyle1 />
+    <GlobalStyle2 />
     <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  </Fragment>,
+  document.getElementById("root")
 );
-
-// If you want your app to work offline and load faster, you can change
-// unregister() to register() below. Note this comes with some pitfalls.
-// Learn more about service workers: https://bit.ly/CRA-PWA
-serviceWorker.unregister();
