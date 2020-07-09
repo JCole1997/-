@@ -2,12 +2,13 @@ import styled from 'styled-components';
 import logoPic from '../../statics/logo.png';
 
 export const HeaderWrapper = styled.div`
+  z-index: 1;
   position: relative;
   height: 56px;
   border-bottom: 1px solid #f0f0f0
 `
 
-export const Logo = styled.a`
+export const Logo = styled.div`
   position: absolute;
   left: 0;
   top: 0;
@@ -31,6 +32,7 @@ export const NavItem = styled.div`
   font-size: 17px;
   padding: 0 15px;
   color: #333;
+  cursor: pointer;
   &.left {
     float: left;
   }
@@ -103,6 +105,7 @@ export const SearchInfo = styled.div`
   width: 240px;
   padding: 0 20px;
   box-shadow: 0 0 8px rgba(0, 0, 0, .2);
+  background: #fff;
 `
 
 export const SearchInfoTitle = styled.div`
@@ -169,6 +172,7 @@ export const Button = styled.button`
   padding: 0 20px;
   font-size: 14px;
   border: 1px solid rgba(236,97,73,.7);
+  cursor: pointer;
   &.reg {
     color: rgba(236,97,73);
     background: #fff;

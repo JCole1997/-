@@ -1,0 +1,49 @@
+{
+  "success": true,
+  "data": {
+    "articleList": [
+      {
+      "id": 1,
+      "title": "一个故事很温暖",
+      "desc": "如果说，人这一生总要经历风风雨雨，那么文学这条路，也许注定要走得孤独。莫说什么冥冥注定，别论什么前世今生，有些事，无法左右，不能放手。 从记事到...",
+      "imgURL": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1376319214,2872501189&fm=26&gp=0.jpg"
+      },
+      {
+      "id": 2,
+      "title": "一个故事很温暖",
+      "desc": "如果说，人这一生总要经历风风雨雨，那么文学这条路，也许注定要走得孤独。莫说什么冥冥注定，别论什么前世今生，有些事，无法左右，不能放手。 从记事到...",
+      "imgURL": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1376319214,2872501189&fm=26&gp=0.jpg"
+      },
+      {
+      "id": 3,
+      "title": "一个故事很温暖",
+      "desc": "如果说，人这一生总要经历风风雨雨，那么文学这条路，也许注定要走得孤独。莫说什么冥冥注定，别论什么前世今生，有些事，无法左右，不能放手。 从记事到...",
+      "imgURL": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1376319214,2872501189&fm=26&gp=0.jpg"
+      },
+      {
+      "id": 4,
+      "title": "一个故事很温暖",
+      "desc": "如果说，人这一生总要经历风风雨雨，那么文学这条路，也许注定要走得孤独。莫说什么冥冥注定，别论什么前世今生，有些事，无法左右，不能放手。 从记事到...",
+      "imgURL": "https://dss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1376319214,2872501189&fm=26&gp=0.jpg"
+      }
+    ],
+  "boardList": [
+      {
+      "id": 1,
+      "imgURL": "//cdn2.jianshu.io/assets/web/banner-s-club-aa8bdf19f8cf729a759da42e4a96f366.png"
+      },
+      {
+      "id": 2,
+      "imgURL": "//cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+      },
+      {
+      "id": 3,
+      "imgURL": "//cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+      },
+      {
+      "id": 4,
+      "imgURL": "//cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+      }
+    ]
+  }
+}
